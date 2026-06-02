@@ -1,0 +1,17 @@
+# Normalize line endings
+* text=auto
+
+# Text files
+*.json text
+*.lang text
+*.md text
+
+# Binary assets
+*.png binary
+*.ogg binary
+*.mcpack binary
+*.zip binary
+
+# Generated files
+*.mcpack linguist-generated=true
+*.zip linguist-generated=true
