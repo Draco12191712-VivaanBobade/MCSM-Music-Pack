@@ -15,3 +15,7 @@
 # Generated files
 *.mcpack linguist-generated=true
 *.zip linguist-generated=true
+
+# GitHub Stuff
+*.json linguist-language=JavaScript
+.github/** text eol=lf
