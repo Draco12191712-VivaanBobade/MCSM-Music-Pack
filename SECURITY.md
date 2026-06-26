@@ -5,13 +5,14 @@
 The table below indicates which versions of this project currently receive security updates.
 
 | Version | Supported |
-|---------|-----------|
+| ------- | --------- |
 | Latest release | Yes |
 | Previous major release | Yes |
 | Older versions | Maybe |
+
 ---
 
-# Reporting a Vulnerability
+## Reporting a Vulnerability
 
 If you believe you have discovered a security vulnerability, pls report it responsibly.
 
@@ -30,7 +31,7 @@ Reports with clear reproduction steps are much easier to investigate.
 
 ---
 
-# How to Report
+## How to Report
 
 Please report vulnerabilities using one of the following methods:
 
@@ -42,7 +43,7 @@ If none of these options are available, please contact the project maintainer th
 
 ---
 
-# What to Expect
+## What to Expect
 
 After receiving a report, the project maintainers will typically:
 
@@ -57,7 +58,7 @@ Response times may vary depending on the complexity and severity of the issue.
 
 ---
 
-# Scope
+## Scope
 
 This policy applies to the source code and officially maintained releases of this project.
 
@@ -65,7 +66,7 @@ Issues resulting from unsupported versions, third-party modifications, or extern
 
 ---
 
-# Responsible Disclosure
+## Responsible Disclosure
 
 Please:
 
@@ -75,7 +76,7 @@ Please:
 
 ---
 
-# Security Best Practices
+## Security Best Practices
 
 You should:
 
@@ -84,7 +85,7 @@ You should:
 
 ---
 
-# Security Updates
+## Security Updates
 
 Security fixes will be included in future releases whenever possible.
 
@@ -92,7 +93,7 @@ If a vulnerability is determined to be critical, an update may be released as so
 
 ---
 
-# Questions
+## Questions
 
 If you have questions about this security policy, please contact us.
 thx for reading!
