@@ -6,7 +6,6 @@
       "bridge": ["2.7.54"],
       "dash": ["0.11.7"]
     },
-    "product_type": "addon",
     "license": "MIT License",
     "url": "https://www.curseforge.com/minecraft-bedrock/addons/mcsm-music-pack"
   },

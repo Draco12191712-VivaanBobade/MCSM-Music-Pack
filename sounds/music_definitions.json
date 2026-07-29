@@ -1,0 +1,33 @@
+{
+  "format_version": "1.26.0",
+  "game": {
+    "event_name": "music.game",
+    "min_delay": 10,
+    "max_delay": 20
+  },
+  "creative": {
+    "event_name": "music.game.creative",
+    "min_delay": 10,
+    "max_delay": 17
+  },
+  "menu": {
+    "event_name": "music.menu",
+    "min_delay": 5,
+    "max_delay": 10
+  },
+  "nether": {
+    "event_name": "music.game.nether",
+    "min_delay": 10,
+    "max_delay": 25
+  },
+  "end": {
+    "event_name": "music.game.end",
+    "min_delay": 10,
+    "max_delay": 20
+  },
+  "credits": {
+    "event_name": "music.game.credits",
+    "min_delay": 0,
+    "max_delay": 0
+  }
+}
